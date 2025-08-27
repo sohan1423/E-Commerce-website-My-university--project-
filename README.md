@@ -19,8 +19,8 @@ The website is designed to simulate a real-world e-commerce platform and provide
 
 ## ⚙️ Tech Stack
 - **Frontend:** HTML, CSS, JavaScript (Bootstrap/React optional)  
-- **Backend:** Python (Flask/Django) or PHP/Node.js (depending on your implementation)  
-- **Database:** MySQL / SQLite  
+- **Backend:**  PHP
+- **Database:** MySQL
 - **Version Control:** Git & GitHub  
 
 
